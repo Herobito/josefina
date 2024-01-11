@@ -1,0 +1,17 @@
+
+
+
+
+.marip {
+    width: 60%; /* Puedes cambiar el valor según tus necesidades */
+    margin: -50px auto 0; /* Ajusta hacia arriba y centra horizontalmente */
+  }
+
+.marip2{
+
+        width: 60%; /* Reducir el ancho de la imagen al 60% del contenedor */
+        margin: -100px -13% 0; /* Ajusta hacia arriba y centra horizontalmente con un margen del 20% a la izquierda y derecha */
+        /* transform: scaleX(-1); Invierte la imagen horizontalmente */
+      
+      
+}
